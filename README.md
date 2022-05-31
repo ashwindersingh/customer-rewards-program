@@ -49,4 +49,11 @@ There is global exception handling, which will handle the error and return the s
 
 There is user transaction dataset in the application with file nam Data.Json, which contain the transaction from the last 3 months.
 
+##Customer Transaction Screenshot
+
+![image](https://user-images.githubusercontent.com/7678271/171291803-78eab765-52cf-4f1e-b6ad-25b553147474.png)
+
+![image](https://user-images.githubusercontent.com/7678271/171292097-429738df-ec09-42c0-be64-cceac514a1f6.png)
+
+
 
