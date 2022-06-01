@@ -49,11 +49,19 @@ There is global exception handling, which will handle the error and return the s
 
 There is user transaction dataset in the application with file nam Data.Json, which contain the transaction from the last 3 months.
 
-##Customer Transaction Screenshot
+### Rewards
+
+Customer has Total 46573 rewards points for Past 3 months (As of 06/01/2022). This will vary when you run the application, as it will consider the current date.
+
+Customer has Total 50447 rewards points in the lifetime.
+
+## Customer Transaction Screenshot
 
 ![image](https://user-images.githubusercontent.com/7678271/171291803-78eab765-52cf-4f1e-b6ad-25b553147474.png)
 
 ![image](https://user-images.githubusercontent.com/7678271/171292097-429738df-ec09-42c0-be64-cceac514a1f6.png)
+
+
 
 
 
